@@ -1,34 +1,36 @@
 # Privacy Policy for Dubai Stickers – Yalla Habibi
 
-Effective Date: September 4, 2026
+**Effective Date:** September 6, 2026
 
-DigitalByRuth (“we”, “our”, or “us”) operates the Dubai Stickers – Yalla Habibi mobile application.
+DigitalByRuth ("we," "our," or "us") operates the Dubai Stickers – Yalla Habibi mobile application.
 
 ## Information We Collect
+Dubai Stickers – Yalla Habibi does not collect, store, or share personal information directly from users. The app does not require users to create an account.
 
-Dubai Stickers – Yalla Habibi does not collect, store, or share personal information from users.
+## Advertising - Google AdMob
+This app uses Google AdMob to display banner ads.
 
-The app does not require users to create an account or provide personal information.
+AdMob may collect and use:
+- Google Advertising ID
+- IP address and device information
+- App interactions for advertising purposes
+
+You can opt-out of personalized advertising on your device:
+Settings > Google > Ads > Opt out of Ads Personalization
+
+For more information:
+- Google Privacy Policy: https://policies.google.com/privacy
+- AdMob: https://support.google.com/admob/answer/6128543
 
 ## Permissions
-
-The app may request access needed to provide its sticker functionality. These permissions are used only for the intended operation of the application.
-
-## Third-Party Services
-
-The app does not use third-party advertising services or analytics services to collect personal information.
+The app may request storage access to provide its sticker functionality.
 
 ## Children's Privacy
-
-Dubai Stickers – Yalla Habibi does not knowingly collect personal information from children or any other users.
+The app is not directed to children under 13. We do not knowingly collect personal information from children.
 
 ## Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date.
+We may update this policy. Changes will be posted on this page.
 
 ## Contact Us
-
-If you have any questions about this Privacy Policy, please contact:
-
 DigitalByRuth
 Email: digitalbyruth@gmail.com
